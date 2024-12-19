@@ -1,0 +1,6 @@
+Deposit Amount ( 303033 ): 5000.0
+Amount withdraw ( 30303 ): 500.0
+Transfer ( sumer --> khushal ): 500.0
+Amount withdraw ( 333033 ): 4000.0
+Insufficient!! Balance to withdraw amount.
+Total Balance ( 333033 ): 0.0
